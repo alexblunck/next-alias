@@ -1,0 +1,14 @@
+{
+  "name": "@blunck/next-alias",
+  "version": "1.0.0",
+  "description": "Use Webpack Aliases in your Next.js project",
+  "main": "index.js",
+  "repository": "alexblunck/next-alias",
+  "keywords": ["nextjs", "alias-loader", "alias"],
+  "author": "Alexander Blunck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexblunck/next-alias/issues"
+  },
+  "homepage": "https://github.com/alexblunck/next-alias#readme"
+}
